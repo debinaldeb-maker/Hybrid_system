@@ -1,0 +1,20 @@
+baseera/
+├── core/
+│   ├── face_recognition.py  # الملف المعدل
+│   ├── visitor.py
+│   ├── ai_analysis.py
+│   ├── database.py
+│   ├── fingerprint.py
+│   ├── security.py
+│   └── utils.py
+├── gui/
+│   ├── dashboard.py
+│   ├── visitor.py
+│   ├── performance.py
+│   ├── login.py
+│   ├── attendance.py
+│   ├── employee.py
+│   └── reports.py
+├── config.py
+├── main.py
+└── requirements.txt
