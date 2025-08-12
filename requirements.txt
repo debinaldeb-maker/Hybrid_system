@@ -8,5 +8,5 @@ pyfingerprint
 cryptography
 face-recognition
 dlib
-tensorflow==2.10.0
+tensorflow==2.12.1
 cmake==3.26.4
